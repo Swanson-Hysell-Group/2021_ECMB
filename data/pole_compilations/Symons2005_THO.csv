@@ -1,0 +1,37 @@
+﻿code,unit,age,age_uncertainty,age_note,sites_n,specimens_n,pole_lon,pole_lat,dp,dm,A95,ref
+BB,Baldock Batholith: megacrystic granite,1809,6,,10,88,272.6,65.2,12.1,12.2,12.14989712,1
+BPB,"Boot Lake: gabbro–diorite, diabase",1840,2,,11,105,276.5,59.5,12.3,12.6,12.44909635,2
+BPP,"Phantom Lake: granodiorite, granite",1837,3,,7,72,273.4,66.6,8.5,8.8,8.648699324,2
+BP,Boot–Phantom pluton,1839,3,,18,177,275.4,62.4,7.9,8,7.949842766,2
+CA,"Clearwater complex: gabbro, anorthosite",1878,39,,8,114,311.8,6.5,2.2,3.7,2.853068524,3
+DGD,Deschambault Post pluton: granodiorite,1795,15,,13,154,268.6,77.2,7.6,8.1,7.846018098,4
+DGT,“Tower Island” pluton: granodiorite,1795,15,,6,72,237.7,74.2,10.2,10.7,10.44700914,4
+DG,Deschambault Post plutons,1795,15,,19,226,257.6,76.7,5.9,6.2,6.04814021,4
+DL,Davin Lake: white and pink granitoids,1801,25,,21,169,266.8,54,9.3,9.3,9.3,5
+DP,Deschambault pegmatites: granitic,1776,5,,18,168,276,67.5,7.6,7.8,7.699350622,6
+HL,Hanson Lake pluton: gabbro–granodiorite,1844,2,,20,185,265.5,36.2,9.7,10.1,9.897979592,7
+JL,Jan Lake complex: granite-pegmatite,1800,14,,19,133,269.5,48.1,15.1,15.3,15.19967105,8
+LLA,"A plug: gabbro–diorite, Ni–Cu ore",1871,4,,16,121,276.8,8.8,8.3,11.1,9.598437373,9
+LLL,"EL plug: gabbro–diorite, Ni–Cu ore",1871,2,,7,72,277,5.6,13.8,19.2,16.27759196,9
+LLF,Fraser Lake plug: gabbro–diorite,1870,6,,6,65,271.6,13.7,5.7,7.2,6.406246951,9
+LL,Lynn Lake plugs: gabbro–diorite,1871,4,,29,258,275.6,9,5.5,7.4,6.379655163,9
+MCN,"Macoun: north lobe, foliated granodiorite",1849,9,,9,67,294,33.6,18.9,21.6,20.20494989,10
+MCS,"Macoun: south lobe, massive",1856,10,,8,86,275.4,56.1,19.3,19.6,19.44942159,10
+MC,Macoun Lake: granodiorite–granite,1852,4,,17,153,287.7,43.9,14.3,15.2,14.743134,10
+MI,Missi Conglomerate Fm.: clasts,,,,,,360,,,,,
+MIB,Beaverdam Mbr.: conglomerate clasts,1855,2,< 1855,28,30,290.6,29.6,4.8,5.5,5.138093031,11
+MIR,Little Cliff Mbr.: conglomerate clasts,1845,2,< 1845,30,45,287.6,70.8,17.2,18.1,17.64426252,11
+MON,"Molson dikes A : pegmatitic, mafic",1750,,1700–1800,16,84,263.5,15.4,3.7,4.4,4.0348482,"12, 13"
+MOB,Molson dikes B : pyroxenite–norite,1883,2,,30,169,219.2,27.1,3.4,4.2,3.778888726,"12, 13"
+MOC1,Molson dikes C1 : ophitic diabase,2091,2,,8,46,180,53,7.6,9.7,8.586035173,"12, 13"
+MOC2,Molson dikes C2 : pyroxenite–norite,1877,6,,11,62,216,28.7,7.3,9.1,8.15046011,"12, 13"
+PLA,Peter Lake: massive diorite–gabbro,1862,8,,15,83,307.7,3.3,7.1,11.8,9.153141537,14
+PLB,Peter Lake: metadiorite–metagabbro,1810,20,,14,78,287.8,52.3,15.6,16.3,15.94615941,14
+REA,Reynard Lake pluton: fresh gabbro–granodiorite,1851,3,,18,164,253.2,39.7,9.2,9.4,9.29946235,15
+REB,Reynard Lake pluton: gabbro–diorite,1850,2,,5,54,255,0.8,8.1,11.4,9.609370427,15
+REC,Reynard Lake pluton: weathered gabbro,,,Ordovician,4,30,137,25,11,12,11.48912529,15
+SG,Sahli charnockitic granite,1826,10,,20,184,276,49.2,8.8,9.1,8.948742928,16
+WBA,Wathaman batholith: monzonite–granite,1854,1,,19,156,293,9,3,5,3.872983346,17
+WBB,Wathaman batholith: late diabase dikes,1854,,,3,12,292,-8,15,26,19.74841766,17
+WBC,Wathaman batholith: sheared monzonite,1810,20,,7,45,255,64,33,34,33.49626845,17
+WD,Wapisu gneiss: leucogranite–migmatite,1800,15,,17,120,240.5,75.8,9.5,10,9.746794345,18
