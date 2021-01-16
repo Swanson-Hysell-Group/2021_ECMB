@@ -135,9 +135,9 @@
 10041 2230.0    2.7795   32.3223  218.7823  001 !Constrained by Malley pole
 10043  0.0   90.0    0.0    0.0  1000 !Associate Superior E with Laurentia
 10043 1849.0   51.996  -70.4105    0.0022  1000 !Associate Superior E with Laurentia
-10043 1850.0  -16.1676   -6.6018  262.3377  001 !Constrained by Haig pole
-10043 1869.0  -15.967   -8.1309  267.0186  001 !Constrained by Haig pole
-10043 1884.0  -16.5447  -39.9733  295.7424  001 !Constrained by Molson pole
+10043 1850.0  -16.1676   -6.6018  262.3377  001 !
+10043 1868.0  -17.5826   -5.984  265.2734  001 !Constrained by Haig pole
+10043 1888.0  -37.0086  -29.0584  285.5093  001 !Constrained by Molson pole
 10043 1998.0  -39.6741  -74.6419  291.5472  001 !Constrained by Minto pole
 10043 2070.0  -52.4386  -74.6016  303.2265  001 !Split difference between Lac Esprit and Fort Frances pole
 10043 2104.0  -63.9809  -74.5875  298.4464  001 !Constrained by Marathon R pole
