@@ -1,4 +1,4 @@
-# 2021_ECMB
+# The paleogeography of Laurentia in its early years: new constraints from the Paleoproterozoic East-Central Minnesota batholith
 
 This repository contains data, code, and a manuscript presenting and analyzing data from the East Central Minnesota Batholith.
 
