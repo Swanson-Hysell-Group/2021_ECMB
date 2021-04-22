@@ -1,9 +1,8 @@
 # The paleogeography of Laurentia in its early years: new constraints from the Paleoproterozoic East-Central Minnesota batholith
 
-This repository contains data, code, and a manuscript presenting and analyzing data from the East Central Minnesota Batholith that has been submitted to the AGU journal Tectonics.
+This repository contains data, code, and a manuscript presenting and analyzing data from the East Central Minnesota Batholith was published in the AGU journal Tectonics in 2021.
 
-**The paleogeography of Laurentia in its early years: new constraints from the Paleoproterozoic East-Central Minnesota batholith**
-by N. L. Swanson-Hysell, M. S. Avery, Yiming Zhang, E. B. Hodgin, R. J. Sherwood, F. E. Apen, T. J. Boerboom, C. B. Keller, J. M. Cottle
+Swanson-Hysell, N.L., Avery, M.S., Zhang, Y., Hodgin, E.B., Sherwood, R.J., Apen, F.E., Boerboom, T.J., Keller, C.B.,  and Cottle, J.M. (2021), The paleogeography of Laurentia in its early years: new constraints from the Paleoproterozoic East Central Minnesota batholith \textit{Tectonics}, https://doi.org/10.1029/2021TC006751
 
 ## code
 
