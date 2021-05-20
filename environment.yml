@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.7
   - appnope=0.1.0=py37_1000
   - asn1crypto=1.0.0=py37_0
   - attrs=19.2.0=py_0
