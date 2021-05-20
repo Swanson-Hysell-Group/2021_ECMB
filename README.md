@@ -2,7 +2,7 @@
 
 This repository contains data, code, and a manuscript presenting and analyzing data from the East Central Minnesota Batholith was published in the AGU journal Tectonics in 2021.
 
-Swanson-Hysell, N.L., Avery, M.S., Zhang, Y., Hodgin, E.B., Sherwood, R.J., Apen, F.E., Boerboom, T.J., Keller, C.B.,  and Cottle, J.M. (2021), The paleogeography of Laurentia in its early years: new constraints from the Paleoproterozoic East Central Minnesota batholith \textit{Tectonics}, https://doi.org/10.1029/2021TC006751
+Swanson-Hysell, N.L., Avery, M.S., Zhang, Y., Hodgin, E.B., Sherwood, R.J., Apen, F.E., Boerboom, T.J., Keller, C.B.,  and Cottle, J.M. (2021), The paleogeography of Laurentia in its early years: new constraints from the Paleoproterozoic East Central Minnesota batholith *Tectonics*, https://doi.org/10.1029/2021TC006751
 
 ## code
 
