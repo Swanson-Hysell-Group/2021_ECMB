@@ -1,6 +1,6 @@
 matplotlib
 numpy
 pandas
-past
+future
 pmagpy
 scipy
